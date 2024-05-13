@@ -1,0 +1,18 @@
+Telegram -
+VsCode -
+PyChram -
+Spotify - /snap/spotify/current/usr/bin/spotify
+LibreOffice Writer - /snap
+Firefox -
+
+
+[Desktop Entry]
+Type=Application
+Exec=/usr/bin/yandex-browser-beta
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name[ru_RU]=Yandex
+Name=Yandex
+Comment[ru_RU]=
+Comment=
